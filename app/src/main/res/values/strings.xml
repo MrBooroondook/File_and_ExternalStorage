@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">File and ExternalStorage</string>
+
+    <string name="msg_sorry">Sorry …</string>
 </resources>
